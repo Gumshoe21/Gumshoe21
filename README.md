@@ -1,10 +1,11 @@
 ## Hi there 👋 I'm Matthew.
 
-### I'm a full stack web developer.
+### I'm a web developer who really likes JavaScript.
 
 - 🔭 I’m currently working on an app called 12 Hour Study, which is a pomodoro timer for focus and productivity.
-- 🌱 I’m currently learning everything to do with web development.
-- ⚡ Fun fact: I love to play the piano! :musical_keyboard:
+- 🔭 I'm also working on a personal Twitch bot for my own Twitch channel.
+- 🌱 I’m currently learning TypeScript.
+- ❤️ I'm very passionate about what I do!
 
 [![Gumshoe21's GitHub stats](https://github-readme-stats.vercel.app/api?username=gumshoe21&show_icons=true&hide_border=true&theme=dark)](https://github.com/gumshoe21/github-readme-stats)
 
