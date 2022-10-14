@@ -6,6 +6,7 @@
 - 🔭 I'm also working on a personal Twitch bot for my own Twitch channel.
 - 🌱 I’m currently learning TypeScript.
 - ❤️ I'm very passionate about what I do!
+- 📝 Check out my [blog](https://blog.gumshoe.dev)!
 
 [![Gumshoe21's GitHub stats](https://github-readme-stats.vercel.app/api?username=gumshoe21&show_icons=true&hide_border=true&theme=dark)](https://github.com/gumshoe21/github-readme-stats)
 
