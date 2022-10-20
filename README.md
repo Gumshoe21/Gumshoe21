@@ -8,6 +8,6 @@
 - ❤️ I'm very passionate about what I do!
 - 📝 Check out my [blog](https://blog.gumshoe.dev)!
 
-[![Gumshoe21's GitHub stats](https://github-readme-stats.vercel.app/api?username=gumshoe21&show_icons=true&hide_border=true&theme=dark)](https://github.com/gumshoe21/github-readme-stats)
+[![Gumshoe21's GitHub stats](https://github-readme-stats.vercel.app/api?username=gumshoe21&show_icons=true&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gumshoe21&layout=compact&theme=dark)](https://github.com/gumshoe21/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gumshoe21&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
