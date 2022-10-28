@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on an app called 12 Hour Study, which is a Pomodoro timer for focus and productivity.<br>🔭 I'm also working on a personal Twitch bot for my own Twitch channel.<br>🌱 I’m currently learning TypeScript.<br>❤️ I'm very passionate about what I do!<br>🎹 I love playing the piano!<br>📝 Check out my blog!
+- 🔭 I’m currently working on an app called 12 Hour Study, which is a Pomodoro timer for focus and productivity.
+- 🔭 I'm also working on a personal Twitch bot for my own Twitch channel.
+- 🌱 I’m currently learning TypeScript.
+- ❤️ I'm very passionate about what I do!
+- 🎹 I love playing the piano!
+- 📝 Check out my [blog](https://blog.gumshoe.dev)!
 
 
 ## 🌐 Socials:
