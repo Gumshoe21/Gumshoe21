@@ -5,3 +5,5 @@
 - JavaScript/TypeScript developer.
 - I use NeoVim (because what else would someone use?)
 - Check out my [blog](https://blog.gumshoe.dev)
+
+![Ascii Cat](./ascii-cat.gif)
